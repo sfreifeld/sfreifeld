@@ -40,6 +40,6 @@ My passion for building and creativity, coupled with years of self-taught coding
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sfreifeldv)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sfreifeld)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfreifeld&layout=donut)

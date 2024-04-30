@@ -10,38 +10,36 @@ My passion for building and creativity, coupled with years of self-taught coding
 </a> 
 
 <a href = "mailto:sfrei.1996@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-darkgreen?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
 <a href="https://leetcode.com/u/sabfry96/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-%23333?style=for-the-badge&logo=#FFA116&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank">
 </a>
 
 
 ## Skills
 
 #### Cloud providers
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare&theme=dark" />
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,html,js,php,py,rust" />
+<img src="https://skillicons.dev/icons?i=bash,css,git,html,js,postgres,py,swift&theme=dark" />
 
 #### Frameworks & libraries
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,flask,vite" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,flask,matlab,nodejs,react,sass,tailwind&theme=dark" />
 
 #### Other
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,pycharm,neovim,obsidian,npm,obsidian" />
+<img src="https://skillicons.dev/icons?i=arduino,figma,github,gitlab,gulp,kubernetes,npm,postman,raspberrypi,vscode,wordpress&theme=dark" />
 
 
 ## Deployed Projects
 
-- [Personal Website](https://jgray.cc/)
-- [Sunwatch](http://sunwat.ch/)
-- [Aiducate](https://aiducate.app/)
+- [Personal Website](https://www.sabfry.io/)
 
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgray-dev)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sfreifeldv)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfreifeld&layout=donut)

@@ -30,7 +30,7 @@ My passion for building and creativity, coupled with years of self-taught coding
 <img src="https://skillicons.dev/icons?i=angular,bootstrap,flask,matlab,nodejs,react,sass,tailwind&theme=dark" />
 
 #### Other
-<img src="https://skillicons.dev/icons?i=arduino,figma,github,gitlab,gulp,kubernetes,npm,postman,raspberrypi,vscode,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,github,gitlab,postman,raspberrypi,vscode,wordpress&theme=dark" />
 
 
 ## Deployed Projects

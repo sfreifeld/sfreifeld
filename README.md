@@ -1,8 +1,8 @@
 ## Bio
 
-With a foundation in marketing from Penn State, my journey took an unconventional turn when I discovered a profound interest in technology. This led me to teach myself Python and SQL, setting the stage for a rewarding 5+ year career as a data analyst in adtech, ecommerce, and risk spaces.
+With a foundation in marketing from Penn State, my journey took an unconventional turn when I discovered a profound interest in technology. This led me to teach myself Python and SQL, setting the stage for a rewarding 5+ year career as a data engineer in adtech, ecommerce, and risk spaces.
 
-My passion for building and creativity, coupled with years of self-taught coding and side projects, steered me towards my true calling: software engineering. Currently enrolled in an intensive coding bootcamp, I am eagerly bridging the gap between data analytics and software development, armed with a unique blend of analytical prowess, marketing insights, and a relentless drive to innovate within the tech industry.
+My passion for building and creativity, coupled with years of self-taught coding and side projects, steered me towards my true calling: software engineering. Recently graduated from an intensive coding bootcamp, I am eagerly bridging the gap between data analytics and software development, armed with a unique blend of analytical prowess, marketing insights, and a relentless drive to innovate within the tech industry.
 
 ## Contact me
 <a href="https://www.linkedin.com/in/sabrinafreifeld/" target="_blank">

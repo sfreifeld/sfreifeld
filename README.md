@@ -35,7 +35,7 @@ My passion for building and creativity, coupled with years of self-taught coding
 
 ## Deployed Projects
 
-- [Personal Website](https://www.sabfry.io/)
+- [Personal Website](https://www.sabfry.com/)
 - [Dev Impact](https://phase-5.vercel.app/)
 
 

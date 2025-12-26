@@ -1,3 +1,7 @@
+## Link to Home Assistant Beginner Automation Pack
+- [A Beginner-Friendly Home Assistant Automation Pack]([https://www.sabfry.com/](https://freight0.gumroad.com/l/beginner-ha-automations))
+
+
 ## Bio
 
 With a foundation in marketing from Penn State, my journey took an unconventional turn when I discovered a profound interest in technology. This led me to teach myself Python and SQL, setting the stage for a rewarding 5+ year career as a data engineer in adtech, ecommerce, and risk spaces.

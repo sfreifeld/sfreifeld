@@ -1,5 +1,5 @@
 ## Link to Home Assistant Beginner Automation Pack
-- [A Beginner-Friendly Home Assistant Automation Pack]([https://www.sabfry.com/](https://freight0.gumroad.com/l/beginner-ha-automations))
+- [A Beginner-Friendly Home Assistant Automation Pack](https://freight0.gumroad.com/l/beginner-ha-automations)
 
 
 ## Bio
